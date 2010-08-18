@@ -12,5 +12,7 @@
   <plone:transform factory=".textile_html.TextileTransform" />
   <plone:transform factory=".web_intelligent.HtmlWebIntelligentTransform" />
   <plone:transform factory=".web_intelligent.WebIntelligentHtmlTransform" />
+  <plone:transform factory=".rtf_html.RTFTransform" />
+
 
 </configure>
