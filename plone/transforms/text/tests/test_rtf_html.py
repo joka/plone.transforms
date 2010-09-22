@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 """
-    Tests for the markdown transform.
+    Tests for the rtf transform.
 """
 
 from unittest import TestSuite, makeSuite

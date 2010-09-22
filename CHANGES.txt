@@ -4,6 +4,9 @@ Changelog
 1.0a4 - unreleased
 ------------------
 
+- Added pythonic rtf_html text transform
+  [joka]]
+
 - Removed test dependency on zope.app.publisher in favor of zope.security.
   [hannosch]
 

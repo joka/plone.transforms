@@ -36,7 +36,6 @@ TODO
     office_com
     office_uno
     office_wvware
-    rtf_to_html
     rtf_to_xml
     safe_html
     build_transforms
