@@ -1,11 +1,17 @@
 Changelog
 =========
 
-1.0a4 - unreleased
+1.1a2 - unreleased
 ------------------
 
 - Added pythonic rtf_html text transform
   [joka]]
+
+1.1a1 - 2011-08-25
+------------------
+
+- Avoid import problem for `PublicPermission` in Plone 4.
+  [hannosch]
 
 - Removed test dependency on zope.app.publisher in favor of zope.security.
   [hannosch]
