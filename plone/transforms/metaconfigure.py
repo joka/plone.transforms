@@ -14,7 +14,7 @@ KNOWN_BASE_NAMES = frozenset((
     ('plone.transforms.chain'),
     ('plone.transforms.image.pil'),
     ))
-:
+
 PublicPermission = 'zope.Public'
 
 
